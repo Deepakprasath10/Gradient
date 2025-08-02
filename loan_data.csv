@@ -1,0 +1,16 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+Male,Yes,1,Graduate,No,4583,1508,128,360,1.0,Urban,1
+Female,No,0,Graduate,Yes,3000,0,66,360,1.0,Rural,0
+Male,Yes,2,Not Graduate,No,2583,2358,120,360,1.0,Urban,1
+Male,No,0,Graduate,Yes,6000,0,141,360,1.0,Semiurban,1
+Female,No,0,Graduate,No,2340,2546,110,180,0.0,Rural,0
+Male,Yes,3,Graduate,No,4000,1200,158,360,1.0,Urban,1
+Male,Yes,1,Not Graduate,Yes,3500,1300,100,120,1.0,Rural,1
+Female,No,0,Graduate,No,2900,2000,115,240,0.0,Semiurban,0
+Male,Yes,2,Graduate,No,4000,0,120,360,1.0,Urban,1
+Female,No,0,Not Graduate,No,2600,800,95,360,1.0,Rural,1
+Male,Yes,1,Graduate,No,6000,2500,150,360,1.0,Semiurban,1
+Female,No,0,Graduate,Yes,2000,1000,80,120,0.0,Rural,0
+Male,Yes,3,Not Graduate,No,7200,1500,165,360,1.0,Urban,1
+Male,No,0,Graduate,Yes,3400,1800,90,180,1.0,Semiurban,1
+Female,No,0,Graduate,No,3100,0,70,240,0.0,Rural,0

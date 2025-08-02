@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h2>Prediction Result</h2>
+    <p><strong>Status:</strong> {{ 'Approved ✅' if result == 1 else 'Rejected ❌' }}</p>
+    <p><strong>Approval Probability:</strong> {{ proba }}%</p>
+    <a href="/">Predict Again</a>
+</body>
+</html>
